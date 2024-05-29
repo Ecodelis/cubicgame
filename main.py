@@ -28,7 +28,7 @@ def main():
         config.SCREEN_WIDTH, config.SCREEN_HEIGHT, config.WINDOW_TITLE
     )
     view_manager = ViewManager(window)
-    view_manager.show_menu()  # Show the menu at the start
+    view_manager.show_menu()  # Show the menu at the start of the game
     arcade.run()
 
 

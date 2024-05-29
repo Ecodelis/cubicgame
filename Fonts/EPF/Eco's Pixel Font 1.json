@@ -1,0 +1,52 @@
+{
+	"$baseURI": "https://yal.cc/r/20/pixelfont/",
+	"$version": "1.0",
+	"in-glyphs": [
+		".!\"#$%&'()*+,-./",
+		"0123456789:;<=>?",
+		"@ABCDEFGHIJKLMNO",
+		"PQRSTUVWXYZ[\\]^_",
+		"`abcdefghijklmno",
+		"pqrstuvwxyz{|}~∎",
+		""
+	],
+	"glyph-color": "auto",
+	"in-kerning": [
+		""
+	],
+	"glyph-width": 9,
+	"glyph-height": 9,
+	"glyph-ofs-x": 1,
+	"glyph-ofs-y": 1,
+	"glyph-sep-x": 1,
+	"glyph-sep-y": 1,
+	"glyph-base-x": 0,
+	"glyph-baseline": 7,
+	"glyph-spacing": 1,
+	"font-is-mono": false,
+	"font-em-square": 1536,
+	"font-line-gap": 640,
+	"font-ascend": 640,
+	"font-descend": -256,
+	"font-px-size": 128,
+	"font-name": "Eco's Pixel Font 1",
+	"font-author": "Ecodelis782",
+	"font-copy": "(c)",
+	"font-version": "Version 1.0",
+	"font-desc": "An average pixel font ready for use.",
+	"font-license": "You have the permission",
+	"font-license-url": "",
+	"font-sample-text": "Hello World!",
+	"font-preview-text": [
+		"THE QUICK BROWN FOX JUMPS OVER A LAZY DOG.",
+		"the quick brown fox jumps over a lazy dog.",
+		"0123456789",
+		"",
+		"THE QUICK BROWN",
+		"SHITTER ggez",
+		"fuck you shit head",
+		"",
+		"PLAYER_1| looks over the drawer and finds a golden key...",
+		"\"Oh shit\" he says as a monster appears around the corner"
+	]
+}
